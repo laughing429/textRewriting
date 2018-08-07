@@ -1,0 +1,4 @@
+data/
+__pycache__/
+available_models/
+*.py[cod]

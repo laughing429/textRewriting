@@ -1,0 +1,4 @@
+six
+tqdm
+torch>=0.4.0
+git+https://github.com/pytorch/text
