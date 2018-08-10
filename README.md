@@ -1,6 +1,9 @@
 # textRewriting
 chinese text rewriting
 
+# perform
+![](https://github.com/laughing429/textRewriting/raw/master/text.png)
+
 # description
 This script is based on the OpenNMT framework and implements the Chinese rewriting function. Thanks to the OpenNMT creator.
 
