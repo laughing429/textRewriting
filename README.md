@@ -1,5 +1,5 @@
 # textRewriting
-chinese text rewriting
+中文文本改写
 
 # perform
 ![](https://github.com/laughing429/textRewriting/raw/master/text.png)
